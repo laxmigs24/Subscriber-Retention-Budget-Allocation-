@@ -1,0 +1,31 @@
+# Raw competition data — licensed, never committed
+data/raw/
+data/*.csv
+data/*.txt
+data/*.7z
+
+# Keep the instructions for obtaining it
+!data/README.md
+
+# Databases and derived artefacts
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# Tableau
+*.twb.bak
+*.hyper
+
+# Editors and OS
+.DS_Store
+.vscode/
+.idea/
+.env
