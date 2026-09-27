@@ -1,0 +1,9 @@
+﻿metric,value,format,tile_order,emphasis,subtitle
+Subscribers flagged by rule,23452,int,1,False,
+Contact capacity,9999,int,2,False,
+Coverage of flagged population,0.426,pct,3,False,
+Churn rate within flagged group,0.412,pct,4,False,
+At-risk CLV in flagged group,69586,eur,5,False,
+Campaign cost at capacity,3529,eur,6,False,
+Best achievable ROI,1.28,x,7,True,
+Breakeven cost per contact,15.32,ntd,8,True,actual cost NT$12

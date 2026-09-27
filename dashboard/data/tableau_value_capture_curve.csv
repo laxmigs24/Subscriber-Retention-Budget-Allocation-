@@ -1,0 +1,105 @@
+﻿method,subscribers_contacted,pct_at_risk_value_captured,contact_capacity,population_ceiling,interpolation_note
+Random within rule,0,0.0,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,977,4.413,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,1954,8.716,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,2932,12.982,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,3909,17.218,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,4886,21.435,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,5863,25.636,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,6840,29.825,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,7817,34.002,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,8794,38.171,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,9772,42.335,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,9999,43.3,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,10749,46.487,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,11726,50.632,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,12703,54.771,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,13680,58.905,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,14658,63.037,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,15635,67.16,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,16612,71.278,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,17589,75.392,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,18566,79.502,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,19543,83.608,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,20520,87.71,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,21498,91.813,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,22475,95.908,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Random within rule,23452,100.0,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,0,0.0,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,977,28.929,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,1954,37.916,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,2932,44.422,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,3909,49.698,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,4886,54.219,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,5863,58.216,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,6840,61.825,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,7817,65.132,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,8794,68.195,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,9772,71.06,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,9999,71.7,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,10749,73.753,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,11726,76.3,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,12703,78.72,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,13680,81.03,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,14658,83.243,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,15635,85.366,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,16612,87.409,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,17589,89.38,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,18566,91.286,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,19543,93.131,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,20520,94.921,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,21498,96.662,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,22475,98.353,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+CLV-ranked,23452,100.0,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,0,0.0,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,977,8.243,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,1954,14.206,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,2932,19.538,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,3909,24.488,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,4886,29.177,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,5863,33.668,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,6840,37.999,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,7817,42.2,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,8794,46.289,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,9772,50.285,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,9999,51.2,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,10749,54.192,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,11726,58.024,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,12703,61.787,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,13680,65.489,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,14658,69.138,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,15635,72.732,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,16612,76.278,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,17589,79.779,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,18566,83.238,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,19543,86.659,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,20520,90.043,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,21498,93.396,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,22475,96.714,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Fewest active days,23452,100.0,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,0,0.0,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,977,43.521,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,1954,52.179,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,2932,58.026,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,3909,62.563,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,4886,66.326,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,5863,69.567,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,6840,72.431,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,7817,75.007,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,8794,77.356,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,9772,79.521,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,9999,80.0,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,10749,81.529,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,11726,83.407,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,12703,85.173,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,13680,86.841,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,14658,88.425,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,15635,89.931,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,16612,91.369,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,17589,92.746,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,18566,94.068,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,19543,95.339,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,20520,96.564,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,21498,97.749,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,22475,98.892,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.
+Model x CLV,23452,100.0,9999,23452,Deterministic concave interpolation from brief anchors; not observed point-by-point data.

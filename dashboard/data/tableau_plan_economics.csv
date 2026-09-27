@@ -1,0 +1,6 @@
+﻿plan_band,subscribers,churn_rate,amount_paid_ntd,expected_cycles,clv_ntd,clv_eur,at_risk_eur,purchase_type,share_of_at_risk_pct,share_of_subscribers_pct
+01 weekly or less,136,0.757,4.12,1.32,1.63,0.05,5.1,Prepaid block,0.0,0.6
+02 monthly,18194,0.291,160.85,3.44,165.94,4.88,25836.9,Subscription,37.1,77.6
+03 quarterly,1036,0.764,305.43,1.31,119.86,3.53,2794.0,Prepaid block,4.0,4.4
+04 half-year,2168,0.842,708.46,1.19,252.34,7.42,13544.9,Prepaid block,19.5,9.2
+05 annual or longer,1918,0.859,1619.88,1.16,565.58,16.63,27399.0,Prepaid block,39.4,8.2

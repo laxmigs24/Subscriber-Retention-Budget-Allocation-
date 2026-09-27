@@ -1,0 +1,24 @@
+KKBOX dashboard validation report
+
+CHECKS THAT RECONCILE
+- Flagged subscribers: 23,452
+- Contact capacity: 9,999
+- Coverage: 42.636% vs KPI 42.6%
+- Campaign cost: 9,999 × NT$12 / 34 = €3,529.06, rounds to KPI €3,529.
+- Worst monthly net: €-1,088
+- Best monthly net: €977
+- Annual difference on identical spend: €24,780
+- ROI/net rows reconcile to the common campaign cost after rounding.
+- Breakeven NT$ values reconcile to value_saved_eur × FX / contacts after rounding.
+
+FLAGGED INCONSISTENCY
+- KPI 'At-risk CLV in flagged group' = €69,586
+- Sum of plan_economics.at_risk_eur = €69,579.90
+- Difference = €6.10
+No value was altered. The dashboard preserves the supplied KPI and plan-band figures.
+
+VIEW 3 DATA LIMITATION
+- dashboard_data.json does not contain a point-by-point value-capture curve.
+- The brief supplies four anchor values at 9,999 contacts and requires all methods to reach 100% at 23,452.
+- tableau_value_capture_curve.csv therefore uses a deterministic concave power interpolation that exactly hits those anchors and endpoints.
+- Treat the intermediate points as presentation interpolation, not observed measurements.

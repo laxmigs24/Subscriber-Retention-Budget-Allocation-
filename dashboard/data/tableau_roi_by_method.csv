@@ -1,0 +1,7 @@
+﻿method,churners_reached,precision,at_risk_eur,pct_of_ceiling,vs_random,saves,value_saved_eur,net_eur,roi,breakeven_ntd,kind,pays_back,sort_order,campaign_cost_eur
+Model: account + behaviour,2004,0.668,16896.96,79.989,0.846,534,4506,977,1.28,15.32,Model,Pays back,1,3529.06
+Model: account only,1914,0.638,16452.3,77.884,0.797,510,4387,858,1.24,14.92,Model,Pays back,2,3529.06
+CLV-ranked,1585,0.528,15151.54,71.726,0.655,423,4040,511,1.14,13.74,Heuristic,Pays back,3,3529.06
+Fewest active days,1487,0.496,10809.94,51.173,0.181,397,2882,-647,0.82,9.8,Heuristic,Loses money,4,3529.06
+Most days since last play,1385,0.462,9787.43,46.333,0.069,369,2610,-919,0.74,8.87,Heuristic,Loses money,5,3529.06
+Random within rule,1239,0.413,9154.08,43.335,0.0,330,2441,-1088,0.69,8.3,Heuristic,Loses money,6,3529.06
