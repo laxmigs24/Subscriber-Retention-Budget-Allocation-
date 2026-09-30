@@ -6,7 +6,7 @@ A retention-budget analysis on 200,000 subscribers of a music streaming service.
 
 **Headline finding: whether this campaign makes or loses money depends entirely on how the contact list is ordered — a €24,780 annual swing on identical spend.**
 
-🔗 **[Interactive dashboard (Tableau Public)]tableau - https://public.tableau.com/app/profile/laxmi.gupte/viz/KKBOX_17907749007090/Dashboard1?publish=yes 📊**
+🔗 **[Interactive dashboard (Tableau Public)](https://public.tableau.com/app/profile/laxmi.gupte/viz/KKBOX_17907749007090/Dashboard1)** · 📊 **[Stakeholder deck (PDF)](deck/retention_budget_recommendation.pdf)**
 
 ---
 
