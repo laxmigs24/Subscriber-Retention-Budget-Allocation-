@@ -1,0 +1,42 @@
+# Subscriber Retention Budget Allocation
+# Python 3.10+
+#
+#   pip install -r requirements.txt
+#
+# Minimum versions rather than exact pins, so the project installs cleanly on a
+# current environment. To pin to exactly what you ran, see the note at the end.
+
+# ---- core analysis ----
+pandas>=2.0
+numpy>=1.24
+
+# ---- statistics ----
+scipy>=1.10
+statsmodels>=0.14          # Wilson confidence intervals, two-proportion tests
+
+# ---- modelling ----
+scikit-learn>=1.3
+lightgbm>=4.0              # early_stopping callback requires 3.3+
+
+# ---- visualisation ----
+matplotlib>=3.7
+
+# ---- notebooks ----
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.25
+
+# ---- stretch work (optional) ----
+# lifelines>=0.27          # Kaplan-Meier survival analysis, see docs/03_backlog_and_risks.md
+# streamlit>=1.28          # campaign planner, see docs/03_backlog_and_risks.md
+
+# ----------------------------------------------------------------------------
+# sqlite3 is part of the Python standard library — no install needed.
+#
+# 7-Zip is required to extract the source archives and is NOT a Python package:
+#   macOS   brew install p7zip
+#   Ubuntu  apt install p7zip-full
+#
+# To replace the ranges above with the exact versions from your environment:
+#   pip freeze | grep -iE "pandas|numpy|scipy|statsmodels|scikit-learn|lightgbm|matplotlib|jupyter|notebook|ipykernel" > requirements.txt
+# ----------------------------------------------------------------------------
